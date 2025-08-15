@@ -1,5 +1,0 @@
-# Environmental description information for DTSphereBridge
-# Mon May 12 16:15:15 CST 2025
-EnvName=DataBridge_10.46.180.87_172.17.0.1
-EnvSum=49F47D78244A74CE3167FD13C506F14B
-IP=172.17.0.1,10.46.180.87
